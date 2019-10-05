@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
-homework
-Hello. We can use update files.
+Homework.
+Hello. We can use file update. Please see my files.
